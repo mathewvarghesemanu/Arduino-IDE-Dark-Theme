@@ -11,8 +11,8 @@
    <!--<baseFont family="..." size="13"/>-->
    
    <!--  General editor colors. -->
-   <background color="282923"/>
-   <caret color="282923"/>
+   <background color="282924"/>
+   <caret color="282823"/>
    <selection useFG="false" bg="404E51" roundedEdges="false"/>
    <currentLineHighlight color="2F393C" fade="false"/>
    <marginLine fg="394448"/>
